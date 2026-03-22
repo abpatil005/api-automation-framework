@@ -1,4 +1,4 @@
-[![API Tests](https://github.com/abpati1005/api-automation-framework/actions/workflows/api-tests.yml/badge.svg)](https://github.com/abpati1005/api-automation-framework/actions)
+[![API Tests](https://github.com/abpati1005/api-automation-framework/actions/workflows/api-tests.yml/badge.svg?branch=main)](https://github.com/abpati1005/api-automation-framework/actions)
 # API Automation Framework (Postman + Newman)
 
 ## 📌 Project Overview
